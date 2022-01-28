@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/iicspay/static/css/main.f2303074.css",
-    "main.js": "/iicspay/static/js/main.e2c9b965.js",
+    "main.js": "/iicspay/static/js/main.89d656de.js",
     "index.html": "/iicspay/index.html",
     "main.f2303074.css.map": "/iicspay/static/css/main.f2303074.css.map",
-    "main.e2c9b965.js.map": "/iicspay/static/js/main.e2c9b965.js.map"
+    "main.89d656de.js.map": "/iicspay/static/js/main.89d656de.js.map"
   },
   "entrypoints": [
     "static/css/main.f2303074.css",
-    "static/js/main.e2c9b965.js"
+    "static/js/main.89d656de.js"
   ]
 }
